@@ -1,0 +1,8 @@
+data/
+runs/*/
+!runs/signnet/
+runs/signnet/*.pt
+!runs/signnet/best.pt
+__pycache__/
+.pytest_cache/
+train_log.txt
